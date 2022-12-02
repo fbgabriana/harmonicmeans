@@ -4,5 +4,7 @@
 
 When my sister in the US learned that I was taking a web developer course at KodeGo, she asked me to help her make a website for her musical band _Harmonic Means_.
 
+![screenshot](screenshot.png)
+
 * [View the site](home.html){:target="_projectpage"}
 
