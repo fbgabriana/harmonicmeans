@@ -6,5 +6,7 @@ When my sister in the US learned that I was taking a web developer course at Kod
 
 * [View the site](home.html){:target="_projectpage"}
 
+* [View the source](https://github.com/fbgabriana/harmonicmeans){:target="_projectsource"}
+
 ![screenshot](screenshot.svg)
 
