@@ -1,4 +1,4 @@
-## [fbgabriana.github.io](/ "Bamm's KodeGo Repository") / [harmonicmeans](/harmonicmeans/)
+## [https://fbgabriana.github.io/](/ "Bamm's KodeGo Repository") / [harmonicmeans](/harmonicmeans/)
 
 # Harmonic Means
 
